@@ -1,5 +1,5 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom"
-import ShowProducts from './components/ShowProducts2'
+import ShowProducts from './components/ShowProducts'
 
 function App() {
 
